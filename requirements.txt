@@ -1,1 +1,5 @@
 OpenImageR
+foreach
+doParalell
+ggplot2
+scatterplot3d
