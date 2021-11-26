@@ -1,3 +1,5 @@
+<a href="https://github.com/chriss1245/face-recognizer_with_fda_pca_knn/blob/master/Assignment%202%20Report.pdf">FULL REPORT HERE</a>
+
 Little face recognizer which employs pca, fisher discriminant analysis, and knn. It was developed at the data science degree in UC3m with @mentions(https://github.com/madebypixel02)
 
 This project is updated with educational purposes. It is far from being used practically.
