@@ -1,4 +1,4 @@
-# PCA, FDA, KNN Face Recognizer
+# PCA, FDA, KNN Face Recognizer | uc3m
 
 *Wait a minute... Who are you? 🧐*
 
